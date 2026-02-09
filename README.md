@@ -1,4 +1,4 @@
-# Engenharia Operacional de Data Centers 🛡️
+# Biblioteca Operacional de Data Centers 🛡️
 
 Bem-vindo ao repositório oficial da Biblioteca Operacional de Data Centers. Este projeto é focado na Engenharia de Missão Crítica, onde a disponibilidade é a nossa assinatura e a falha não é uma opção.
 
