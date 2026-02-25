@@ -13,7 +13,7 @@ Repositório oficial da **Biblioteca Operacional de Data Centers**. Este projeto
 
 📗 Volume 2: A Fortaleza – Infraestrutura e Sistemas Críticos
 *Mergulho técnico nos sistemas físicos: Tiers, Energia, Climatização e Incêndio.*
-* [Baixar Volume 2 (PDF)](./Biblioteca_Operacional_Volume_2_Resiliencia_E_Sistemas.pdf)
+* [Baixar Volume 2 (PDF)](./Biblioteca_Operacional_Volume_2_Resiliência_Elétrica_e_Backup.pdf)
 * [Modelo de Checklist (Word)](./Modelo_Checklist_Editavel.docx)
 
 📑 Volume 2.2: Governança e Inteligência de Ativos (White Paper)
