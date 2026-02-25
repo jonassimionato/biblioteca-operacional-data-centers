@@ -18,7 +18,7 @@ Repositório oficial da **Biblioteca Operacional de Data Centers**. Este projeto
 
 📑 Volume 2.2: Governança e Inteligência de Ativos (White Paper)
 *O elo estratégico entre a telemetria de campo e a gestão de ROI/Performance.*
-* [Baixar Volume 2.2 (PDF)](./Governança_e_Inteligência_de_Ativos–Volume2.2)
+* [Baixar Volume 2.2 (PDF)](./Governança_e_Inteligência_de_Ativos–Volume2.2.pdf)
 
 ---
 
