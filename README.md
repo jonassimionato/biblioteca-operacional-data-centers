@@ -18,13 +18,13 @@ Repositório oficial da **Biblioteca Operacional de Data Centers**. Este projeto
 
 📑 Volume 2.2: Governança e Inteligência de Ativos (White Paper)
 *O elo estratégico entre a telemetria de campo e a gestão de ROI/Performance.*
-* [Baixar Volume 2.2 (PDF)](./Governança%20e%20Inteligência%20de%20Ativos%20–%20Volume%202.2.pdf)
+* [Baixar Volume 2.2 (PDF)](./Governança_e_Inteligência_de_Ativos–Volume2.2)
 
 ---
 
-## 🛠️ Ferramentas Práticas Inclusas
+🛠️ Ferramentas Práticas Inclusas
 
 * **Modelo de Logbook (Vol 1):** Padronização para registros factuais de eventos e passagem de turno.
 * **Checklist de Integridade (Vol 2):** Protocolo de verificação sistêmica para Tiers III e IV.
 * **Modelo de Diário de Bordo:** Estrutura factual para registro de parâmetros e redundâncias.
-* **Framework de Auditoria (Vol 2.2):** Diretrizes para identificação de Stranded Capacity e desvios de PUE.
+
