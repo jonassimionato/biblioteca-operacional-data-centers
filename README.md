@@ -1,4 +1,4 @@
-Biblioteca Operacional de Data Centers 🛡️
+# Biblioteca Operacional de Data Centers 🛡️
 
 Repositório oficial da **Biblioteca Operacional de Data Centers**. Este projeto visa padronizar processos e compartilhar ferramentas reais para Analistas e Operadores de Missão Crítica.
 
@@ -18,7 +18,7 @@ Repositório oficial da **Biblioteca Operacional de Data Centers**. Este projeto
 
 📑 Volume 2.2: Governança e Inteligência de Ativos (White Paper)
 *O elo estratégico entre a telemetria de campo e a gestão de ROI/Performance.*
-* [Baixar Volume 2.2 (PDF)](./Governança_e_Inteligência_de_Ativos–Volume 2.2)
+* [Baixar Volume 2.2 (PDF)](./Governança%20e%20Inteligência%20de%20Ativos%20–%20Volume%202.2.pdf)
 
 ---
 
@@ -28,4 +28,3 @@ Repositório oficial da **Biblioteca Operacional de Data Centers**. Este projeto
 * **Checklist de Integridade (Vol 2):** Protocolo de verificação sistêmica para Tiers III e IV.
 * **Modelo de Diário de Bordo:** Estrutura factual para registro de parâmetros e redundâncias.
 * **Framework de Auditoria (Vol 2.2):** Diretrizes para identificação de Stranded Capacity e desvios de PUE.
-
