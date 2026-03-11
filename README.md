@@ -25,8 +25,9 @@ Ciência do transporte de calor, gestão de Delta T, Psicrometria e Redundância
 [Baixar Volume 3 (PDF)](./Biblioteca_Operacional_Volume3_Ciclo_Termico.pdf)
 
 🔗 Volume 4: Conectividade e Inventário
-Normatização de cabeamento estruturado, higiene óptica, identificação TIA-606-C e gestão de ativos (Gêmeo Digital).
-[Baixar Volume 4 (PDF)] (./)
+Normatização de cabeamento estruturado, higiene óptica, identificação TIA-606-C e gestão de ativos (Gêmeo digital).
+[Baixar Volume 4 (PDF)] (./Biblioteca_Operacional_Volume4_Conectividade_e_Inventario.pdf)
+
 ---
 
 🛠️ Ferramentas Práticas Inclusas
