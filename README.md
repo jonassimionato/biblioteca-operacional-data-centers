@@ -15,6 +15,7 @@ Repositório oficial da **Biblioteca Operacional de Data Centers**. Este projeto
 📗 Volume 2: A Fortaleza – Infraestrutura e Sistemas Críticos
 *Mergulho técnico nos sistemas físicos: Tiers, Energia, Climatização e Incêndio.
 [Baixar Volume 2 (PDF)](./Biblioteca_Operacional_Volume_2_Resiliência_Elétrica_e_Backup.pdf)
+
 [Modelo de Checklist (Word)](./Modelo_Checklist_Editavel.docx)
 
 📑 Volume 2.2: Governança e Inteligência de Ativos (White Paper)
@@ -35,7 +36,7 @@ O elo estratégico entre a telemetria de campo e a gestão de ROI/Performance.
 
 📊 Volume 6: Observabilidade 
 *Focado em sistemas de monitoramento (DCIM, BMS), protocolos de comunicação de campo (SNMP, Modbus, BACnet) e governança de alarmes. 
-[Baixar Volume 6 (PDF)](./Biblioteca_Operacional_Volume_6_Observabilidade)
+[Baixar Volume 6 (PDF)](./Biblioteca_Operacional_Volume_6_Observabilidade.pdf)
 
 ---
 
