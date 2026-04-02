@@ -33,6 +33,10 @@ O elo estratégico entre a telemetria de campo e a gestão de ROI/Performance.
 *Focado na proteção física da infraestrutura, Controle de Acesso, CFTV, Barreiras Perimetrais e Segurança do site.
 [Baixar Volume 5 (PDF)](./Biblioteca_Operacional_Volume_5_Blindagem_e_Seguranca.pdf)
 
+📊 Volume 6: Observabilidade 
+*Focado em sistemas de monitoramento (DCIM, BMS), protocolos de comunicação de campo (SNMP, Modbus, BACnet) e governança de alarmes. 
+[Baixar Volume 6 (PDF)](./Biblioteca_Operacional_Volume_6_Observabilidade)
+
 ---
 
 🛠️ Ferramentas Práticas Inclusas
